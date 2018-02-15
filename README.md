@@ -6,7 +6,7 @@
 
 # Tech Stack
 
-* Tech stack: React, Node, npm
+* React, Node, npm
 
 # After running the app
 
